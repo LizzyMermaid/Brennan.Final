@@ -6,14 +6,15 @@ You'll be adding to your design document as you work towards your midterm due on
 
 
 ## Topic
-*What is the subject at hand?*
-*Which broader field(s) does this site apply to?*
+Studying abroad is a hallmark moment in many undergraduate students' lives. For either one semester or an entire year, American students have the option to choose virtually anywhere in the world to study for this amount of time. One destination that is common for American students is Dublin, the Irish capital. Dublin is a small city that boasts culture, literature, art, music, and a rich history. Often Dublin is overshadowed by a romanticized and stereotyped Ireland.
+
+This site will dig into the richer Ireland that offers wonderful opportunities for students to explore. While navigating the site, students will embark on interactive quizzes that act as assessments, an area to blog with other current students who are in the emerald isle, as well as look up Irish calendar events and meet ups.
 
 ## Problem
-*What is the problem you're trying to solve?*
+The problem that this site is trying to resolve is to break the narrow minds American students often have before coming to Ireland by providing them a guide to Dublin before they arrive for their semester(s) abroad.
 
 ## Target Audience
-*Who is your target audience? Describe in detail*
+The target audience for the site is a college student (18-22) who has ties to Dublin due to study abroad. This site is open to all who wish to embark on a journey to learn more about the true Ireland, who want to uncover the myths and plung into the authentic Ireland.
 
 ### User Stories
 **Outline 2-3 user stories. Describe how they find out, engage and come back to your site. Provide rationale.**
