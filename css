@@ -1,19 +1,19 @@
 h1 {
-    font-family: Times;
+    font-family: Cambria;
     font-size: 66px;
-    color: #050069;
+    color: green;
     text-align:center;
 }
 
 p {
-    font-family: Times;
-    color: #FFA200;
+    font-family: Cambria;
+    color: green;
     font-size:4em;
     text-align: center;
 }
 
 .banner {
-  background-color: #050069;
+  background-color: green;
 }
 
 .container-fluid {
@@ -43,7 +43,7 @@ li {
 }
 
 body {
-    background-color:#D5EDEB
+    background-color:#FFFAF0
 }
 
 .button {
@@ -61,7 +61,7 @@ h3 {
 }
 
 h4 {
-    font-family: Times;
+    font-family: Cambria;
     color: #FFA200;
     font-size:2em;
     text-align: center;
