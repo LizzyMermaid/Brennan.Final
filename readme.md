@@ -14,7 +14,7 @@ This site will dig into the richer Ireland that offers wonderful opportunities f
 The problem that this site is trying to resolve is to break the narrow minds American students often have before coming to Ireland by providing them with knowledge and a guide to Dublin.
 
 ## Target Audience
-The target audience for the site is a college student (18-22) who has ties to Dublin due to study abroad. This site is open to all who wish to embark on a journey to learn more about the true Ireland, who want to uncover the myths and plung into the authentic Ireland by assessing their knowledge, growing their expectations, and uncovering the beauty of Dublin.
+The target audience for the site is a college student (18-22) who has ties to Dublin due to study abroad. This site is open to all who wish to embark on a journey to learn more about the true Ireland, who want to uncover the myths and plunge into the authentic Ireland by assessing their knowledge, growing their expectations, and uncovering the beauty of Dublin.
 
 ### User Stories
 **Outline 2-3 user stories. Describe how they find out, engage and come back to your site. Provide rationale.**
@@ -45,6 +45,8 @@ The site objectives are:
 3. To avoid being a tourist, by gaining knowledge on the best places to eat, drink, and take in the culture of Dublin
 4. Learn cultural differences by studying Irish art, literature, culture, and music to avoid culture shock
 
+
+The purpose of these site objectives are to inform and educate others about the depth of Ireland in order to break stereotypes. These objectives when achieved will help users gain a greater sense of Dublin's history, landscape, culture, and help smooth their transition from America to Ireland.
 ### Success Metrics
 *Outline how you will check that the goals for your site have been met*
 
@@ -59,15 +61,16 @@ There will be four units, all composed on a end of unit assessment which must be
 Unit 1: Ireland History and Geography
 Unit 2: All Around Dublin
 Unit 3: Best of Dublin
-Unit 4: Art, Culture, Music 
+Unit 4: Art, Culture, Music
+
+There will also be a blog pre-assessment to help filter what forum students will blog on. For instance, they will be asked their age and how many time they've been to Ireland, etc... These questions will help narrow down who else they should blog with. I wanted to avoid one large blog, in order to make sure the blogs are well-organized and meaningful for users. The blog pre-assessment will help filter and understand user's background as well, which can help maintain and adjust the site as necessary.
 
 
-## Scope
-Functional and Content Specifications
 
-## Structure
-Interaction design and information architecture
+The site will be broken down into the four units, all interactive. The content will not be outsourced to other sites, rather written by the site author (me) who has a wealth of knowledge on Dublin and Ireland as a whole. Once students view the video lessons created by me for each unit and the brief reading, they will take a unit quiz. The quiz is reflective and not necessary to pass to move to the next unit. Students have the ability to skip around. It is up to the user to explore the rich content of the site at their own pace. This also gives user to choice to spend more time on a certain unit topic if it fancies their interest more than another.
 
-## Skeleton
-Interface, navigation, information design
-(You'll provide wireframes here)
+The site will feature Irish radio on the top, playing hits from RTE, which is Ireland's national radio. Furthermore, there will be a video featured on the site from when I studied abroad in Ireland back in 2011. The point of this video is to show different pieces of Irish culture, areas of Dublin to explore, and how amazing your semester or two abroad in Ireland will be.
+
+In addition, the site will also have an events calendar where students can post different meet-ups in both Ireland and the United States, perhaps for pre-trip get-togethers. This social feature will help bring users together once they are in Dublin and even before they leave. 
+
+In conclusion, I wish a site like this that incorporated knowledge on Dublin and a way to interact with other students who have or are going to study abroad in Dublin existed back in 2011. I had so many questions about the neighborhoods, where I was going to be living, how to pick classes, yet not many answers. This site will truly act a one-stop guide for students who are studying abroad in Dublin.
